@@ -1,0 +1,4 @@
+0 Allergic_Conjuntivitis
+1 Bacterial_Conjuntivitis
+2 Healthy_Eyes
+3 Viral_Conjuntivitis
